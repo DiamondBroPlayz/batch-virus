@@ -8,8 +8,8 @@ A batch-file (and one python file) virus. This is a WIP and only one file has be
 
 # Installation
 
-Go to releases and download the zip, after that go in to a terminal, and run "(batchfilename) --" (make sure your in the directory of the file! (: )and then one of the following modes:
+Go to releases and download the zip, after that go in to a terminal, and run "(batchfilename) --" (make sure your in the directory of the file! (: )and then one of the following modes: (dont use caps in the terminal)
 
 Trojan: Just runs itself quietly and installs some program
-Ransomeware: (I dont actually accept payments) Locks down the computer
-Creepy_Pasta_Malware: Kinda like no escape, or any other virus with a story
+Ransomware: (I dont actually accept payments) Locks down the computer
+creepypasta: Kinda like no escape, or any other virus with a story
